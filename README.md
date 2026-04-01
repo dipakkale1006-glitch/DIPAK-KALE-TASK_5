@@ -69,6 +69,6 @@ The UI includes:
 
 Completed as per assignment requirements
 
-# deploy link : 
+# deploy link : https://dipakkale1006-glitch.github.io/DIPAK-KALE-TASK_5/
 
 
